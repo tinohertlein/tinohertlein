@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @tinohertlein
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Please find more infos about Tino on</h1> 
 
-<!---
-tinohertlein/tinohertlein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+    <a href="https://www.linkedin.com/in/tino-hertlein/" target="blank">
+        <img src="/assets/linkedin.svg" title="Tino on LinkedIn" height="150"/>
+    </a>
+    <a href="https://www.xing.com/profile/Tino_Hertlein/cv" target="blank">
+        <img src="/assets/xing.svg" title="Tino on LinkedIn" height="150"/>
+    </a>
+</div>
